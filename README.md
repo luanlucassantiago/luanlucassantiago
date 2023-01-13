@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-
+<h1 id="name">Luan Santiago</h1>
         <p> &nbsp;&nbsp; Olá, tudo bem?😀 Meu nome é <strong>Luan</strong>, estou em transiçãao de carreira para area de programação <strong> apaixonado pela área de tecnologia</strong>. Trabalho atualmente como vendedor Marketpçace,<strong> estudo HTML5, CSS3, Javascript e Scrum para atuar como desenvolvedor front end</strong>
         <p> &nbsp;A medida que adquiro conhecimento, procuro contribuir com pessoas mais iniciantes em comunidades e grupos de desenvolvedores de que participo, pois acredito que é muito importante ajudar outras pessoas, compartilhando conhecimento e aprendendo cada vez mais. </p>
             <p>&nbsp;&nbsp;<q> Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
