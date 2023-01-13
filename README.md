@@ -12,10 +12,7 @@
 
 <h3> </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Sou formada em Análise e Desenvolvimento de Sistemas pela Universidade de Mogi das Cruzes, <a href="http://www.umc.br/campus_mogi/graduacao/73/nucleo-de-cursos-superiores-de-tecnologia/analise-e-desenvolvimento-de-sistemas">UMC</a>.
-- 💼 &nbsp; Já trabalhei como freelancer em pequenos projetos para adquirir experiência.</a>
-- 🌱 &nbsp; Estou aprimorando meus conhecimentos em Angular.
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -28,9 +25,7 @@
   
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Aretha](https://img.shields.io/badge/-Aretha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aretha-dealbuquerque-santiago-33b40b154)](www.linkedin.com/in/aretha-dealbuquerque-santiago-33b40b154)
-[![Gmail Badge](https://img.shields.io/badge/-arealbmartinsan@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:arealbmartinsan@gmail.com)
-[![AreMartins]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/aremartins)
+33b40b154)](www.linkedin.com/in/luan-santiago-240b59159)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
