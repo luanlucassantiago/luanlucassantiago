@@ -1,4 +1,4 @@
-<p style="font-weight: bold">Olá! eu sou Luan 👋</p>
+<p><strong>Olá! eu sou Luan 👋</strong></p>
 
 <img src="https://user-images.githubusercontent.com/73807228/153535920-9961208e-36e3-452f-aaef-12db2987544b.gif">
 
