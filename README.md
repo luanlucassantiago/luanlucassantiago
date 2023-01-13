@@ -25,7 +25,7 @@
   
  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-(33b40b154)](www.linkedin.com/in/luan-santiago-240b59159)
+[(33b40b154)](www.linkedin.com/in/luan-santiago-240b59159)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
