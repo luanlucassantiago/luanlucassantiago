@@ -7,10 +7,10 @@
 <h1 id="name">Luan Santiago</h1>
         <p> &nbsp;&nbsp; Olá, tudo bem?😀 Meu nome é <strong>Luan</strong>, estou em transiçãao de carreira para area de programação <strong> não atuando atualmente porém, apaixonado pela área de tecnologia</strong>. Trabalho atualmente como vendedor Marketpçace,<strong> estudo HTML5, CSS3, Javascript e Scrum para atuar como desenvolvedor front end e fulturamente como full stack</strong>
         <p> &nbsp; </p>
-            <p>&nbsp;&nbsp;<q> 
+            <p>&nbsp&nbsp<q> 
 
 
-        <h3> </h3>
+        
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
